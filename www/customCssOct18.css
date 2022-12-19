@@ -1,0 +1,527 @@
+/* General UI */
+.shiny-input-container:not(.shiny-input-container-inline) {
+    width: 250px;
+    max-width: 100%;
+}
+
+/* General Text */
+text {
+  font-family: sans-serif;
+}
+
+/* General Text */
+#yearMyvh-label{
+  color: #315683;
+}
+
+#fspYear-label{
+    color: #315683;
+}
+
+#yearTlcc-label{
+   color: #315683; 
+}
+
+#cmas2021cautionEla{
+  color: #d8274a;
+}
+
+#cmas2021cautionMath{
+  color: #d8274a;
+}
+
+#sat2021cautionEbrw{
+    color: #d8274a;
+}
+
+/* General Text */
+body {
+    top: 0px !important; 
+}
+
+/* Control the main background color */
+.content{
+    background-color: #ffffff;
+    padding-top: 65px;
+}
+
+/* Control the main background color of the sidebar*/
+.skin-blue .left-side, .skin-blue .main-sidebar, .skin-blue .wrapper {
+background-color: white; 
+}
+
+/* Control the main background color of the sidebar*/
+.body .skin-blue .sidebar-mini .sidebar-collapse{
+    background-color: #ffffff;
+}
+
+/* hide h1 headings Used for Accessibility testing*/
+h1{
+  visibility: hidden;
+}
+
+/* Control the size of the buttons */
+.btn-default{
+  padding: 1px 4px;
+  font-size: 10px;
+  margin: 10px;
+  color: #315683;
+  background-color: #ffffeb;
+  font-style: italic;
+}
+
+/* formatting header banner graphic */
+.skin-blue .main-header .navbar {
+background: url(June14.png);
+  opacity: 0.95;
+}
+
+/*This code changes the selectInput colors for school group headings */
+.selectize-dropdown .optgroup-header { 
+  color: #FFFFFF; 
+  background: #6C7070; 
+}
+
+/* This is formatting the upper left corner */
+.skin-blue .main-header .logo {
+background-color: #6c7070;
+width: 500px;
+}
+
+/* This is formatting the header */
+.main-header {
+position: relative;
+}
+
+/* This is formatting the text for SPF , if no SPF */
+.table .dataTable{
+background-color: #EBF1F6;
+color: #EBF1F6;
+font-style: italic;
+}
+
+/* This is formatting the upper left corner */
+.sidebar-mini .sidebar-collapse .main-sidebar{
+width: 2px; 
+background-color: #EBF1F6;
+}
+
+/* This is formatting dropdown menu */
+.control-label {
+ font-weight: normal;
+ margin-bottom: 0; 
+ color: white; 
+ margin-top: 0; 
+ font-size:12px;
+}
+
+/* This is formatting the tabs '>'' selects immediate children */
+.tabbable > .nav > li > a {
+  color:#315683;
+}
+
+/* Main Tabs */
+.nav-pills {
+  border: 0 solid #315683;
+  background: #dfe1e1;
+  font-weight: bold; 
+}
+.nav-pills li a{
+  border-radius:3px 3px 0 0;
+  border-top-color: #b8bcbc; 
+  padding: 8px;
+}
+
+.nav-pills li.active a{
+  background-color:#315683;
+  color:white;
+  border-radius:3px 3px 0 0;
+  border-top-color: #b8bcbc; 
+  padding: 8px;
+}
+
+/* Sub Tabs */
+.nav .li.active a{
+  background-color:#315683;
+  color:white;
+  border-radius:3px 3px 0 0;
+  border-top-color: #b8bcbc; 
+  padding: 8px;
+}
+
+/* Sub Tabs */
+.nav-tabs-custom { 
+  background: #e9eaea; 
+  margin: 0;     
+  box-shadow: 0 0 rgba(255, 255, 255, 0);
+} 
+  
+.nav-tabs-custom .nav-tabs li a {
+  border-radius:3px 3px 0 0;
+  border-top-color: #b8bcbc; 
+  padding: 8px;
+  box-shadow: 0 1 0 0 rgba(232, 236, 241, 1);
+}
+
+/* Info Boxes */
+.widget-user-2 .widget-user-header {
+    padding: 2px;
+    border-top-right-radius: 1px;
+    border-top-left-radius: 1px;
+    background-color: #315683;
+}
+
+/* Position the withProgress function results */
+.shiny-notification {
+  position: fixed; 
+  top: 30% ;
+  left: 10%;
+}
+
+/* Tooltip fomatting bsPopover */
+.popover-content{
+ font-size: 10px;
+ background-color: #ffffa1; 
+ }
+
+/* this code changes the valid colors for the widget Box (attendance)*/
+.widget-user-header.bg-aqua { 
+  background-color: #3688c8; 
+  color: #FFFFFF; 
+  font-size: 14px;
+}
+
+/* CMAS 2021 userBoxes */
+.widget-user-2 .widget-user-image { 
+  height: 35px; 
+}
+
+ /*this code changes the valid colors for the descriptionBlock (Climate)*/
+.description-block {
+  background-color: #315683; 
+  color: #FFFFFF; 
+  padding: 1px 1px 1px 1px
+}
+
+.description-block .description-header{
+  font-size: 50px; 
+  color: #FFFFFF
+}
+
+.description-text {
+  text-transform: lowercase; 
+}
+ 
+/*This code changes the selectInput colors for school group headings*/
+.optgroup-header {
+  color: #FFFFFF; 
+  background: #6C7070; 
+}
+
+/* Flip boxes */
+.rotate-container .card-front-4 {
+  height: 250px;
+}
+
+/* Info Buttons */
+.btn-primary {
+  background-color: #ffffeb; 
+  color: #315683; 
+  border-color: #e3e3e3; 
+  padding: 5px 10px 0 0; 
+  float: right; 
+  font-size: 12px;
+}
+
+/* Flip boxes */
+.fa-long-arrow-right {
+  visibility: hidden; 
+  size: 0;
+}
+
+/* Flip boxes */
+.fa-long-arrow-left {
+  visibility: hidden; 
+  size: 0;
+}
+
+/* Modals not currently used */
+.bg-light-blue, .label-primary, .modal-primary .modal-body{
+  background-color: #e3e3e3;
+}
+
+/* Info Buttons */
+.action-button {
+  font-size: 16px;
+}
+
+/* Fomatting horizotal lines */
+hr {
+  border-top: 1px solid #D3D3D3;
+}
+
+/*icons in School Classification */
+.fa-check-circle{
+  color:#315683;
+}
+
+.fa-times-circle{
+  color:#e2a331;
+}
+
+.fa-ban{
+  color:#c2c5cc;
+}
+
+.fa-certificate{
+  color: white;
+}
+
+/* Shiny Errors */
+.shiny-output-error-validation{
+  color: #808080;
+  font-size: large;
+}
+
+.shiny-output-error {
+  color: #808080;
+  
+}
+
+/* Mapping */
+.leaflet-touch .leaflet-control-layers-toggle{
+  height: 0; 
+  width: 0;
+  
+}
+.leaflet-touch .leaflet-bar a {
+  width: 15px; 
+  height: 15px; 
+  line-height: 15px; 
+  color: burlywood;
+  
+}
+
+/* Formats userway icon */
+.content-wrapper{
+  background-color: white;
+    overflow-y: unset!important;
+}
+
+/* Front Tab boxes */
+.small-box.bg-aqua {
+  background-color: #315683 !important; 
+  color: white !important; 
+}
+
+/* Info Boxes */
+.box-header {
+  background-color: #315683 !important; 
+  color: white !important; 
+}
+
+.info-box-icon.bg-blue {
+  background-color: #3688c8 !important; 
+  color: #000000 !important; 
+  height: 100px;
+}
+
+.info-box-content {
+  background-color: #3688c8 !important; 
+  color: #000000 !important; 
+  height: 100px;
+}
+
+.info-box-text {
+  color: white; 
+  text-transform: capitalize;
+}
+
+.info-box-number {
+  color: white !important;
+  font-size: 38px;
+}
+
+.description-block {
+  background-color: #315683 !important; 
+  color: #FFFFFF !important; 
+  padding: 1px 1px 1px 1px; 
+  margin:10px
+}
+
+.description-header {
+  font-size: 50px; 
+  color: #FFFFFF
+}
+
+.description-text {
+  text-transform: lowercase !important;
+}
+
+.small-box h3{
+  font-size: 34px !important; 
+  color: #FFFFFF !important;
+}
+
+/* Product Boxes - school website and School Profile */
+.products-list .product-description {
+    display: contents;
+}
+
+a.product-title{
+  color:#315683;
+  font-size: small;
+  pointer-events: none;
+}
+
+.products-list>.item {
+    border-radius: 3px;
+    -webkit-box-shadow: 0 1px 1px rgba(0,0,0,.1);
+    box-shadow: 0 1px 1px rgba(0,0,0,.1);
+    background: #fff;
+    margin: 1px;
+    padding: 1px;
+    border-top: 0.5px solid #BEBEBE;
+}
+
+.products-list .product-img img {
+    width: 1px;
+    height: 1px;
+}
+
+.products-list .product-info {
+    margin-left: 1px;
+    margin-right: 1px;
+}
+
+/* Boxes */
+.box-body{
+  background-color: white;
+}
+
+/* Google Translate bar */
+.goog-te-banner-frame.skiptranslate {
+    display: none !important;
+} 
+
+/* Userbox image element */
+.img-circle {
+    border-radius: 2%;
+}
+
+/* Control the appearance of the dropdown menu */
+.selectize-input {
+  min-height: 14px; 
+  font-size: 14px; 
+  line-height: 14px; 
+  vertical-align: bottom; 
+  margin-top: 1px; 
+  border-radius: 5px; 
+  min-width: 225px; 
+  padding: 1px 4px; 
+  color:black;
+  
+}
+/* Control the appearance of the dropdown menu */
+.selectize-dropdown {
+  min-height: 20px; 
+  font-size: 14px; 
+  line-height: 14px; 
+  margin-top: 1px; 
+  padding: 2px 4px;
+  
+}"
+
+/* Not used in current code */
+.pretty{
+  color:#315683;
+}
+
+/* Not used in current code */
+.pretty .state .label {
+    display: inline-block;
+    font-weight: 400;
+    color: white;
+    margin: 0;
+    text-indent: 1.5em;
+    min-width: calc(1em + 2px);
+}
+
+/* Not used in current code */
+.pretty .p-default .p-switch .p-slim{
+  color: white;
+}
+
+/* Not used in current code */
+.dt-buttons{
+  font-size: 0.6em;
+  line-height: 1em;
+}
+
+/* Not used in current code */
+.card-block{
+  border-radius: 0;
+}
+
+/* Not used in current code */
+.h3-widget-user-username { 
+  font-size: 1px; 
+}
+/* Not used in current code */
+.card-block .avatar{
+  border-radius: 0; 
+  background: radial-gradient(#e3e3e3, #FFFFFF, #FFFFFF); 
+  max-width: 0; 
+  max-height: 0; 
+  float: right;
+}
+
+/* Not used in current code */
+.card-background-1 {
+  height: 0;
+}
+
+/* Not used in current code */
+.card-block .avatar img {
+  float: right; 
+  align-items: center
+}
+
+/* Not used in current code */
+.card-background-4 {
+  height: 0;
+}
+
+/* Not used in current code */
+#feedback{
+  background-color:orange
+}
+
+#feedbackClimate{
+  background-color:orange
+}
+
+#feedbackCMAS{
+  background-color:orange
+}
+
+#feedbackJeffco{
+  background-color:orange
+}
+
+#feedbackGenerations{
+  background-color:orange
+}
+
+#feedbackPrint{
+  background-color:orange
+}
+
+/* Not used in current code */
+.h3-widget-user-username {
+  font-size: 1px; 
+}
+
+.widget-user-2 .widget-user-image {
+  height: 35px;
+}
