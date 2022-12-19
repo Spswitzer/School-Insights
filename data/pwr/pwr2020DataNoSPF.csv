@@ -1,0 +1,146 @@
+﻿cdeSchoolCode,schoolName,rate,pwrType
+0033,Mclain Community High School,0.25,grad4
+0033,Mclain Community High School,0.607655502,grad7
+0108,Alameda International Junior/Senior High School,0.872340426,grad4
+0108,Alameda International Junior/Senior High School,0.956284153,grad7
+0370,Arvada High School,0.872727273,grad4
+0370,Arvada High School,0.804347826,grad7
+0378,Arvada West High School,0.958837772,grad4
+0378,Arvada West High School,0.945026178,grad7
+0664,Bear Creek High School,0.932307692,grad4
+0664,Bear Creek High School,0.963068182,grad7
+0965,Brady Exploration School,0.16426513,grad4
+0965,Brady Exploration School,0.656934307,grad7
+1451,Addenbrooke Classical Academy,0.958333333,grad4
+1451,Addenbrooke Classical Academy,0.947368421,grad7
+1522,Chatfield High School,0.975124378,grad4
+1522,Chatfield High School,0.949275362,grad7
+1864,Columbine High School,0.925233645,grad4
+1864,Columbine High School,0.950248756,grad7
+1880,Compass Montessori - Golden Charter School,0.970588235,grad4
+1880,Compass Montessori - Golden Charter School,0.90625,grad7
+1886,Conifer Senior High School,0.961352657,grad4
+1886,Conifer Senior High School,0.970588235,grad7
+2093,Dakota Ridge Senior High School,0.940652819,grad4
+2093,Dakota Ridge Senior High School,0.942857143,grad7
+2120,D'Evelyn Junior/Senior High School,0.978417266,grad4
+2120,D'Evelyn Junior/Senior High School,0.993055556,grad7
+2836,Evergreen High School,0.980314961,grad4
+2836,Evergreen High School,0.979591837,grad7
+3393,Golden View Classical Academy,0,grad4
+3393,Golden View Classical Academy,0,grad7
+3502,Golden High School,0.926517572,grad4
+3502,Golden High School,0.937984496,grad7
+3628,Green Mountain High School,0.966911765,grad4
+3628,Green Mountain High School,0.962406015,grad7
+4404,Jefferson Academy,0.925925926,grad4
+4404,Jefferson Academy,0.857142857,grad7
+4408,Jeffco Virtual Academy,0.405405405,grad4
+4408,Jeffco Virtual Academy,0.5,grad7
+4410,Jefferson Academy High School,1,grad4
+4410,Jefferson Academy High School,1,grad7
+4422,Jefferson Junior/Senior High School,0.888888889,grad4
+4422,Jefferson Junior/Senior High School,0.868686869,grad7
+4798,Connections Learning Center On The Earle Johnson Campus,0,grad4
+4798,Connections Learning Center On The Earle Johnson Campus,0,grad7
+4942,Lakewood High School,0.93398533,grad4
+4942,Lakewood High School,0.962264151,grad7
+5415,Rocky Mountain Deaf School,0.75,grad4
+5415,Rocky Mountain Deaf School,1,grad7
+5623,Longview High School,0.678571429,grad4
+5623,Longview High School,0.916666667,grad7
+5892,Miller Special Education,0,grad4
+5892,Miller Special Education,1,grad7
+6237,New America School,0.135802469,grad4
+6237,New America School,0.274509804,grad7
+6541,Jefferson County Open Secondary,0.612244898,grad4
+6541,Jefferson County Open Secondary,0.816326531,grad7
+7114,Pomona High School,0.925081433,grad4
+7114,Pomona High School,0.919254658,grad7
+7239,Ralston Valley Senior High School,0.96593674,grad4
+7239,Ralston Valley Senior High School,0.976470588,grad7
+7701,Collegiate Academy Of Colorado,0.869565217,grad4
+7701,Collegiate Academy Of Colorado,0.75,grad7
+8036,Sobesky Academy,0.416666667,grad4
+8036,Sobesky Academy,0.666666667,grad7
+8209,Standley Lake High School,0.903780069,grad4
+8209,Standley Lake High School,0.925925926,grad7
+8793,Two Roads Charter School,0.857142857,grad4
+8793,Two Roads Charter School,0.791666667,grad7
+9234,Warren Tech Central,0,grad4
+9234,Warren Tech Central,0,grad7
+9245,Warren Tech North,0,grad4
+9245,Warren Tech North,0,grad7
+9510,Wheat Ridge High School,0.859504132,grad4
+9510,Wheat Ridge High School,0.883458647,grad7
+9998,DISTRICT TOTAL,0.848089018,grad4
+9998,DISTRICT TOTAL,0.893482721,grad7
+0033,McLain Community High School,0.115,drop
+0108,Alameda International Junior/Senior High School,0.013,drop
+0109,Arvada K-8,0.003,drop
+0370,Arvada High School,0.021,drop
+0378,Arvada West High School,0.004,drop
+0660,Bear Creek K-8 School,0,drop
+0664,Bear Creek High School,0.006,drop
+0694,Bell Middle School,0.002,drop
+0952,Bradford K8 North,0,drop
+0965,Brady Exploration School,0.33,drop
+1318,Carmody Middle School,0,drop
+1451,Addenbrooke Classical Academy,0,drop
+1522,Chatfield High School,0.003,drop
+1730,Coal Creek Canyon K-8 Elementary School,0,drop
+1864,Columbine High School,0.002,drop
+1880,Compass Montessori - Golden Charter School,0,drop
+1886,Conifer Senior High School,0.002,drop
+1976,Creighton Middle School,0.001,drop
+2093,Dakota Ridge Senior High School,0.005,drop
+2120,D'Evelyn Junior/Senior High School,0,drop
+2130,Deer Creek Middle School,0,drop
+2189,Doral Academy of Colorado,0,drop
+2288,Drake Junior High School,0,drop
+2300,Dunstan Middle School,0,drop
+2799,Excel Academy Charter School,0,drop
+2820,Everitt Middle School,0.002,drop
+2832,Evergreen Middle School,0,drop
+2836,Evergreen High School,0,drop
+2963,Falcon Bluffs Middle School,0,drop
+3088,Foster K-8,0,drop
+3201,Free Horizon Montessori,0,drop
+3502,Golden High School,0.009,drop
+3628,Green Mountain High School,0.004,drop
+4404,Jefferson Academy,0,drop
+4408,Jeffco Virtual Academy,0.046,drop
+4410,Jefferson Academy High School,0,drop
+4422,Jefferson Junior/Senior High School,0.018,drop
+4548,Ken Caryl Middle School,0,drop
+4798,Connections Learning Center on the Earle Johnson Campus,0.016,drop
+4942,Lakewood High School,0.007,drop
+5145,Lincoln Charter Academy,0,drop
+5415,Rocky Mountain Deaf School,0.053,drop
+5454,Mandalay Middle School,0.002,drop
+5472,Manning Options School,0,drop
+5623,Longview High School,0.066,drop
+5892,Miller Special Education,0,drop
+5994,Montessori Peaks Charter Academy,0,drop
+6090,Moore Middle School,0.002,drop
+6139,Mountain Phoenix Community School,0.009,drop
+6237,New America School,0.331,drop
+6330,North Arvada Middle School,0,drop
+6470,Oberon Junior High School,0,drop
+6541,Jefferson County Open Secondary,0.012,drop
+7114,Pomona High School,0.016,drop
+7239,Ralston Valley Senior High School,0.002,drop
+7462,Rocky Mountain Academy of Evergreen,0,drop
+7701,Collegiate Academy of Colorado,0.004,drop
+8036,Sobesky Academy,0.033,drop
+8209,Standley Lake High School,0.008,drop
+8381,Summit Ridge Middle School,0,drop
+8793,Two Roads Charter School,0,drop
+8856,Three Creeks K-8,0,drop
+9234,Warren Tech Central,0,drop
+9245,Warren Tech North,0,drop
+9299,Wayne Carle Middle School,0,drop
+9427,Woodrow Wilson Charter Academy,0,drop
+9428,West Jefferson Middle School,0,drop
+9510,Wheat Ridge High School,0.005,drop
+9998,DISTRICT GRAND TOTALS (INCLUDING ALTERNATIVE SCHOOLS),0.015,drop
